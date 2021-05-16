@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1621130880 source:c:\users\54113\desktop\trabajo practico n2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tp2.h"
+
+1621129708 c:\users\54113\desktop\trabajo practico n2\tp2.h
+
+1621130357 source:c:\users\54113\desktop\trabajo practico n2\tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tp2.h"
+
